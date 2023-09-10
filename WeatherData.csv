@@ -1,1 +1,81 @@
 City,LocalTime,Temperature_C,Wind_Speed_kph,Humidity,Condition
+Adana,2023-09-10 16:15,33.0,20.2,49,Sunny
+Adiyaman,2023-09-10 16:15,30.9,20.2,12,Sunny
+Afyonkarahisar,2023-09-10 16:15,25.0,15.1,28,Sunny
+Agri,2023-09-10 16:15,17.0,17.3,19,Sunny
+Aksaray,2023-09-10 16:15,24.6,27.0,21,Sunny
+Amasya,2023-09-10 16:15,22.0,29.9,38,Partly cloudy
+Ankara,2023-09-10 16:15,25.0,13.0,28,Sunny
+Antalya,2023-09-10 16:15,32.0,24.1,36,Partly cloudy
+Ardahan,2023-09-10 16:15,12.1,17.6,55,Sunny
+Artvin,2023-09-10 16:15,24.0,11.2,54,Partly cloudy
+Aydin,2023-09-10 16:15,33.0,15.1,39,Patchy light rain with thunder
+Balikesir,2023-09-10 16:15,28.0,38.9,35,Sunny
+Bartin,2023-09-10 16:15,26.0,19.1,51,Partly cloudy
+Batman,2023-09-10 16:15,35.0,9.0,14,Partly cloudy
+Bayburt,2023-09-10 16:15,11.6,14.8,61,Sunny
+Bilecik,2023-09-10 16:15,27.0,24.1,37,Partly cloudy
+Bingol,2023-09-10 16:15,25.4,31.0,14,Sunny
+Bitlis,2023-09-10 16:15,28.0,11.2,17,Partly cloudy
+Bolu,2023-09-10 16:15,22.8,14.8,56,Sunny
+Burdur,2023-09-10 16:15,29.0,22.0,25,Partly cloudy
+Bursa,2023-09-10 16:15,27.0,24.1,37,Partly cloudy
+Canakkale,2023-09-10 16:15,29.0,47.9,35,Partly cloudy
+Cankiri,2023-09-10 16:15,22.8,9.7,28,Sunny
+Corum,2023-09-10 16:15,19.0,24.5,43,Sunny
+Denizli,2023-09-10 16:15,29.0,19.1,29,Partly cloudy
+Diyarbakir,2023-09-10 16:15,33.0,16.9,11,Sunny
+Duzce,2023-09-10 16:15,22.8,14.8,56,Sunny
+Edirne,2023-09-10 16:15,25.4,33.1,43,Sunny
+Elazig,2023-09-10 16:15,30.0,19.1,16,Partly cloudy
+Erzincan,2023-09-10 16:15,25.0,28.1,28,Sunny
+Erzurum,2023-09-10 16:15,21.0,13.0,23,Sunny
+Eskisehir,2023-09-10 16:15,26.0,9.0,32,Partly cloudy
+Gaziantep,2023-09-10 16:15,32.0,3.6,14,Sunny
+Giresun,2023-09-10 16:15,19.0,8.3,66,Cloudy
+Gumushane,2023-09-10 16:15,10.7,13.7,77,Partly cloudy
+Hakkari,2023-09-10 16:15,18.6,27.4,29,Sunny
+Hatay,2023-09-10 16:15,29.4,22.3,55,Sunny
+Igdir,2023-09-10 16:15,27.0,28.1,14,Sunny
+Isparta,2023-09-10 16:15,27.0,20.2,32,Partly cloudy
+Istanbul,2023-09-10 16:15,27.0,33.1,45,Partly cloudy
+Izmir,2023-09-10 16:15,34.0,15.1,26,Sunny
+Kahramanmaras,2023-09-10 16:15,30.7,15.5,15,Sunny
+Karabuk,2023-09-10 16:15,23.0,10.4,28,Sunny
+Karaman,2023-09-10 16:15,25.7,26.6,16,Sunny
+Kars,2023-09-10 16:15,17.0,29.9,32,Partly cloudy
+Kastamonu,2023-09-10 16:15,21.0,19.4,38,Sunny
+Kayseri,2023-09-10 16:15,24.0,3.6,27,Sunny
+Kirikkale,2023-09-10 16:15,23.0,20.2,33,Partly cloudy
+Kirklareli,2023-09-10 16:15,21.6,32.4,59,Overcast
+Kirsehir,2023-09-10 16:15,25.0,22.0,26,Sunny
+Kilis,2023-09-10 16:15,33.0,3.6,12,Sunny
+Kocaeli,2023-09-10 16:15,26.0,19.1,48,Partly cloudy
+Konya,2023-09-10 16:15,24.0,22.0,22,Partly cloudy
+Kutahya,2023-09-10 16:15,23.7,23.4,31,Sunny
+Malatya,2023-09-10 16:15,28.0,3.6,15,Partly cloudy
+Manisa,2023-09-10 16:15,34.0,15.1,26,Sunny
+Mardin,2023-09-10 16:15,36.0,11.2,15,Partly cloudy
+Mersin,2023-09-10 16:15,28.5,9.4,67,Patchy rain possible
+Mugla,2023-09-10 16:15,23.0,5.0,61,Patchy rain possible
+Mus,2023-09-10 16:15,28.0,11.2,17,Partly cloudy
+Nevsehir,2023-09-10 16:15,25.0,22.0,26,Sunny
+Nigde,2023-09-10 16:15,19.1,10.4,23,Sunny
+Ordu,2023-09-10 16:15,19.0,8.3,66,Cloudy
+Osmaniye,2023-09-10 16:15,28.6,16.6,58,Sunny
+Rize,2023-09-10 16:15,18.5,7.6,78,Partly cloudy
+Sakarya,2023-09-10 16:15,26.0,19.1,48,Partly cloudy
+Samsun,2023-09-10 16:15,21.0,15.1,64,Partly cloudy
+Siirt,2023-09-10 16:15,31.6,14.8,18,Sunny
+Sinop,2023-09-10 16:15,19.2,20.5,60,Partly cloudy
+Sivas,2023-09-10 16:15,17.0,29.9,45,Sunny
+Sirnak,2023-09-10 16:15,31.7,15.1,19,Sunny
+Tekirdag,2023-09-10 16:15,25.0,41.0,57,Partly cloudy
+Tokat,2023-09-10 16:15,16.4,20.2,63,Partly cloudy
+Trabzon,2023-09-10 16:15,22.0,20.2,57,Partly cloudy
+Tunceli,2023-09-10 16:15,20.7,22.7,19,Sunny
+Usak,2023-09-10 16:15,27.0,25.9,28,Partly cloudy
+Van,2023-09-10 16:15,22.0,16.9,38,Moderate or heavy rain with thunder
+Yalova,2023-09-10 16:15,26.0,37.1,42,Partly cloudy
+Yozgat,2023-09-10 16:15,19.8,30.6,51,Sunny
+Zonguldak,2023-09-10 16:15,26.0,19.1,51,Partly cloudy
