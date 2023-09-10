@@ -31,8 +31,8 @@ git clone https://github.com/ardasamett/WeatherDataCollector.git
 ```
 
 ## Usage
-
-To run the project manually, follow these steps:
+(Please make sure to pay attention to dependencies.)
+To run the project manually, follow these steps: 
 
 1. Navigate to the project directory: `cd WeatherDataCollector`
 2. Run the main.py to collect weather data: `python main.py`
