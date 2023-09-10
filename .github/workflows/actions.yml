@@ -1,6 +1,8 @@
 name: Weather Data Collect and Store
 
-on: [push]
+on:
+  schedule:
+    - cron: "0 9 * * *"
 
 jobs:
   build:
