@@ -15,12 +15,19 @@ This project includes a Python application that retrieves, processes, and stores
 - [Usage](#usage)
 - [GitHub Actions Workflow](#github-actions-workflow)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contributing) 
+- [Raw Data Example](#raw-data-example)
+- [Processed Data](#processed-data)
 
 ## Project Description
 
 This project fetches daily weather data for Turkish cities using the "WeatherAPI" and stores it in a MongoDB database. It also converts this data into a CSV file and integrates it with current data.
+
+**Dependencies**
+
+* WeatherAPI: API KEY
+* MongoDB: Cluster/DB URI KEY
+* GitHub Actions (to schedule and workflow)
 
 ## Getting Started
 
@@ -32,6 +39,7 @@ git clone https://github.com/ardasamett/WeatherDataCollector.git
 
 ## Usage
 (Please make sure to pay attention to dependencies.)
+
 To run the project manually, follow these steps: 
 
 1. Navigate to the project directory: `cd WeatherDataCollector`
