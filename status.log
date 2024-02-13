@@ -4552,3 +4552,32 @@
 2024-02-12 15:13:34,585 - __main__ - INFO - We couldn't retrieve the coordinates for city Zonguldak, so we obtained the data for the city bolu with the closest coordinates.
 2024-02-12 15:13:34,699 - __main__ - INFO - Data successfully added on MongoDB
 <-><-><-><-><-><-><-><-><-><->
+2024-02-13 15:12:13,699 - __main__ - INFO - VERSION: 1.0.0
+2024-02-13 15:12:14,855 - __main__ - INFO - We couldn't retrieve the coordinates for city Agri, so we obtained the data for the city agri with the closest coordinates.
+2024-02-13 15:12:15,167 - __main__ - INFO - We couldn't retrieve the coordinates for city Aksaray, so we obtained the data for the city nevsehir with the closest coordinates.
+2024-02-13 15:12:16,570 - __main__ - INFO - We couldn't retrieve the coordinates for city Aydin, so we obtained the data for the city aydin with the closest coordinates.
+2024-02-13 15:12:16,743 - __main__ - INFO - We couldn't retrieve the coordinates for city Balikesir, so we obtained the data for the city balikesir with the closest coordinates.
+2024-02-13 15:12:16,916 - __main__ - INFO - We couldn't retrieve the coordinates for city Bartin, so we obtained the data for the city kastamonu with the closest coordinates.
+2024-02-13 15:12:17,429 - __main__ - INFO - We couldn't retrieve the coordinates for city Bayburt, so we obtained the data for the city erzurum with the closest coordinates.
+2024-02-13 15:12:18,533 - __main__ - INFO - We couldn't retrieve the coordinates for city Burdur, so we obtained the data for the city burdur with the closest coordinates.
+2024-02-13 15:12:19,319 - __main__ - INFO - We couldn't retrieve the coordinates for city Cankiri, so we obtained the data for the city kastamonu with the closest coordinates.
+2024-02-13 15:12:20,106 - __main__ - INFO - We couldn't retrieve the coordinates for city Diyarbakir, so we obtained the data for the city diyarbakir with the closest coordinates.
+2024-02-13 15:12:20,271 - __main__ - INFO - We couldn't retrieve the coordinates for city Duzce, so we obtained the data for the city bolu with the closest coordinates.
+2024-02-13 15:12:20,607 - __main__ - INFO - We couldn't retrieve the coordinates for city Elazig, so we obtained the data for the city elazig with the closest coordinates.
+2024-02-13 15:12:21,907 - __main__ - INFO - We couldn't retrieve the coordinates for city Gumushane, so we obtained the data for the city trabzon with the closest coordinates.
+2024-02-13 15:12:22,251 - __main__ - INFO - We couldn't retrieve the coordinates for city Hatay, so we obtained the data for the city hatay with the closest coordinates.
+2024-02-13 15:12:22,419 - __main__ - INFO - We couldn't retrieve the coordinates for city Igdir, so we obtained the data for the city agri with the closest coordinates.
+2024-02-13 15:12:23,526 - __main__ - INFO - We couldn't retrieve the coordinates for city Karabuk, so we obtained the data for the city kastamonu with the closest coordinates.
+2024-02-13 15:12:23,861 - __main__ - INFO - We couldn't retrieve the coordinates for city Kars, so we obtained the data for the city erzurum with the closest coordinates.
+2024-02-13 15:12:24,371 - __main__ - INFO - We couldn't retrieve the coordinates for city Kirikkale, so we obtained the data for the city ankara with the closest coordinates.
+2024-02-13 15:12:24,549 - __main__ - INFO - We couldn't retrieve the coordinates for city Kirklareli, so we obtained the data for the city kirklareli with the closest coordinates.
+2024-02-13 15:12:24,718 - __main__ - INFO - We couldn't retrieve the coordinates for city Kirsehir, so we obtained the data for the city kirsehir with the closest coordinates.
+2024-02-13 15:12:25,082 - __main__ - INFO - We couldn't retrieve the coordinates for city Kocaeli, so we obtained the data for the city kocaeli with the closest coordinates.
+2024-02-13 15:12:26,930 - __main__ - INFO - We couldn't retrieve the coordinates for city Mus, so we obtained the data for the city malatya with the closest coordinates.
+2024-02-13 15:12:28,041 - __main__ - INFO - We couldn't retrieve the coordinates for city Osmaniye, so we obtained the data for the city hatay with the closest coordinates.
+2024-02-13 15:12:28,215 - __main__ - INFO - We couldn't retrieve the coordinates for city Rize, so we obtained the data for the city erzurum with the closest coordinates.
+2024-02-13 15:12:28,380 - __main__ - INFO - We couldn't retrieve the coordinates for city Sakarya, so we obtained the data for the city sakarya with the closest coordinates.
+2024-02-13 15:12:29,439 - __main__ - INFO - We couldn't retrieve the coordinates for city Sirnak, so we obtained the data for the city siirt with the closest coordinates.
+2024-02-13 15:12:31,157 - __main__ - INFO - We couldn't retrieve the coordinates for city Zonguldak, so we obtained the data for the city bolu with the closest coordinates.
+2024-02-13 15:12:31,680 - __main__ - INFO - Data successfully added on MongoDB
+<-><-><-><-><-><-><-><-><-><->
